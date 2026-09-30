@@ -1,0 +1,104 @@
+# Phase 4 – Project Planning
+
+## Project Title
+
+Script-Controlled ACL – Restrict Record Access Based on Field Value
+
+## 1. Project Objective
+
+The objective is to implement a Script-Controlled ACL in ServiceNow that restricts or allows record access based on a configured field value.
+
+## 2. Project Scope
+
+The project includes:
+
+- Creating a suitable ServiceNow table or using an existing table
+- Identifying the field used for access control
+- Creating an Access Control List (ACL)
+- Implementing scripted access logic
+- Testing authorized and unauthorized access
+- Documenting the implementation and results
+
+## 3. Project Activities
+
+### Activity 1 – Requirement Analysis
+Identify the access control requirements and field-based security condition.
+
+### Activity 2 – System Design
+Design the ACL structure and access flow.
+
+### Activity 3 – ACL Configuration
+Create and configure the required ACL in ServiceNow.
+
+### Activity 4 – Script Development
+Implement the script that evaluates the field value and determines access.
+
+### Activity 5 – Testing
+Test the ACL with different users and record values.
+
+### Activity 6 – Documentation
+Document the configuration, script logic, test cases, and results.
+
+### Activity 7 – Demonstration
+Demonstrate the working ACL and access restriction.
+
+## 4. Resources Required
+
+- ServiceNow instance
+- Administrator access
+- Access Control List configuration
+- Script editor
+- Test users
+- Test records
+
+## 5. Project Timeline
+
+| Phase | Activity |
+|---|---|
+| Phase 1 | Brainstorming & Ideation |
+| Phase 2 | Requirement Analysis |
+| Phase 3 | Project Design |
+| Phase 4 | Project Planning |
+| Phase 5 | Project Development |
+| Phase 6 | Project Testing |
+| Phase 7 | Project Documentation |
+| Phase 8 | Project Demonstration |
+
+## 6. Risks and Mitigation
+
+### Risk 1 – Incorrect ACL Configuration
+**Mitigation:** Verify ACL settings and test access using different user scenarios.
+
+### Risk 2 – Incorrect Script Logic
+**Mitigation:** Test both allowed and denied access conditions.
+
+### Risk 3 – Unauthorized Access
+**Mitigation:** Validate the ACL using users with different permissions.
+
+## 7. Deliverables
+
+The project deliverables include:
+
+- Requirement document
+- System design
+- Project plan
+- Configured ACL
+- ACL script
+- Test cases and results
+- Project documentation
+- Demonstration
+
+## 8. Success Criteria
+
+The project will be considered successful when:
+
+- The ACL is configured successfully.
+- The configured field value is evaluated correctly.
+- Authorized access is allowed.
+- Unauthorized access is restricted.
+- Test cases produce the expected results.
+- The complete project is documented.
+
+## 9. Conclusion
+
+The project planning phase defines the activities, resources, risks, deliverables, and success criteria required to implement the Script-Controlled ACL solution.
